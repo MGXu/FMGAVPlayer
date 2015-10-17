@@ -3,6 +3,8 @@
 
  ![image](https://github.com/MGXu/FMGAVPlayer/raw/master/111.png)
 
+####主要功能：自定义播放器位置、横竖屏切换、暂停、快进/退、可拖拽指示条
+
 使用说明：
   1.导入头文件
   ```objc 
