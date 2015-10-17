@@ -1,7 +1,7 @@
 # FMGAVPlayer
 自定义视频播放器，支持横竖屏，支持播放器显示位置，想显示在哪里就在哪里！！！
 
-
+ ![image](https://github.com/MGXu/FMGAVPlayer/raw/master/111.jpg)
 
 使用说明：
   1.导入头文件
