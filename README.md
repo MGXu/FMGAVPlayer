@@ -2,9 +2,10 @@
 自定义视频播放器，支持横竖屏，支持播放器显示位置，想显示在哪里就在哪里！！！
 
 使用说明：
-  1.导入  
-  ```objc#import "FMGVideoPlayView.h"
-    #import "FullViewController.h"
+  1.导入头文件
+  ```objc 
+  #import "FMGVideoPlayView.h" 
+  #import "FullViewController.h"
   ```
   2.FMGAVPlayer.bundle文件放在Assets.xcassets里面
   
