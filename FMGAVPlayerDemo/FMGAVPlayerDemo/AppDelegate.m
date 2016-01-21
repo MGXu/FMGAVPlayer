@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  FMGAVPlayerDemo
 //
-//  Created by XMG on 15/10/12.
+//  Created by FMG on 15/10/12.
 //  Copyright © 2015年 FMG. All rights reserved.
 //
 
